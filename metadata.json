@@ -1,0 +1,6 @@
+{
+  "name": "MOVEXA Care — Clinical Physiotherapy Management",
+  "description": "Comprehensive clinical physiotherapy management, MSK assessment, rehabilitation plans, patient exercise portal, and revenue generation platform led by Dr. Priyanka Singh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
